@@ -1,0 +1,144 @@
+.top-container{
+  background-color: powderblue;
+  text-align: center;
+  height: auto;
+  font-size: 2.5rem;
+  color:#66BFBF;
+
+
+  padding: 20px;
+
+}
+.middle-container{
+  height:auto;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+body{
+  color:#40514E;
+  margin:0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+
+}
+.intro{
+  width:50%;
+  padding-left: 150px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+  text-align: center;
+
+  font-size: 5.625rem;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+  padding-bottom: 10px;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+  }
+h4{
+  color:#66BFBF;
+  width: 50%;
+  margin-left: 200px;
+}
+
+span{
+  text-decoration:underline;
+}
+.upper{
+  margin-left: 530px;
+}
+.lower{
+
+  margin-right: 700px;
+}
+.mountain{
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 120px;
+  height: 300px;
+  width: 50rem;
+}
+.my{
+  height:168px;
+  width:168px;
+  border-radius: 100%;
+}
+.android{
+  border-radius: 100%;
+  float: left;
+
+}
+.skill1{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-left: 260px;
+  width: 50%;
+  font-size: 15px;
+
+}
+.skill2{
+
+  margin-bottom: 200px;
+  margin-left: 290px;
+  line-height: 2px;
+  width: 50%;
+  font-size: 15px;
+
+
+}
+.wd{
+  float: right;
+}
+
+
+.bottom{
+
+margin: auto;
+  text-align:center;
+}
+hr{
+  color: grey;
+  width: 50px;
+  border-width: 5px;
+  border-style: dotted none none;
+  margin-bottom: 50px;
+}
+p{
+  line-height: 2;
+}
+.rand{
+  text-align: center;
+  margin-left: 160px;
+  }
+.skillhead{
+  margin-left: 500px;
+}
+a{
+  margin-right: 160px;
+}
+#my{
+  margin-left: 320px;
+}
+.btn{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #66BFBF
+}
+#p1{
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+  color: white;
+  font-size: 0.75rem;
+}
